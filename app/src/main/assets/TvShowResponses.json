@@ -1,0 +1,25 @@
+{
+    "tvShows" : [
+        {
+            "showsId": "tvShows1",
+            "showsTitle": "Girl From Nowhere",
+            "showsDescription": "A Girl From Nowhere adalah sebuah serial televisi misteri-fantasi Thailand yang disiarkan di Netflix dan dirilis pada tahun 2018. Serial tersebut dibintangi oleh Chicha Amatayakul yang berperan sebagai gadis misterius.",
+            "showsPubYear": "8 Agustus 2018",
+            "showsImage": "https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABeoAPxtHJwEirlEGxJo97ls2tHauQDug_SokzfYX_mZmt3hrwFtnG86FeiF893CNTleT0syyz53gSW17j6GxwR07-txQ.jpg?r=1e8"
+        },
+        {
+            "showsId": "tvShows2",
+            "showsTitle": "Vincenzo",
+            "showsDescription": "Vincenzo adalah seri televisi Korea Selatan tahun 2021 yang menampilkan Song Joong-ki, Jeon Yeo-been, Ok Taec-yeon, Kim Yeo-jin, Kwak Dong-yeon, dan Jo Han-cul.",
+            "showsPubYear": "20 Februari 2021",
+            "showsImage": "https://s.kaskus.id/images/2021/02/04/10934197_20210204123022.jpg"
+        },
+        {
+            "showsId": "tvShows3",
+            "showsTitle": "Ragnarok",
+            "showsDescription": "Ragnarok adalah serial drama fantasi berbahasa Norwegia yang terinspirasi oleh mitologi Nordik dari Netflix yang tayang perdana pada 31 Januari 2020. Ini adalah serial TV berbahasa Norwegia ketiga Netflix, setelah Home for Christmas dan Lilyhammer.",
+            "showsPubYear": "31 Januari 2020",
+            "showsImage": "https://www.okeguys.com/wp-content/uploads/2020/02/ragnarok-netflix-review-season-1-1-997x427.jpg"
+        }
+    ]
+}

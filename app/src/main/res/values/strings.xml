@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Catalogue</string>
+    <string name="title_activity_detail_movies">Movies Catalogue</string>
+    <string name="title_activity_detail_tvshow">Tv Shows Catalogue</string>
+    <string name="title">Title</string>
+    <string name="pubYear">Terbit</string>
+    <string name="pubYear_date">Terbit %s</string>
+    <string name="description">Description</string>
+    <string name="description_movies">Deskripsi Movies</string>
+    <string name="title_shows">Title</string>
+    <string name="pubYear_shows">Terbit</string>
+    <string name="description_shows">Description</string>
+    <string name="description_tvShows">Deskripsi Tv Shows</string>
+    <string name="movies">Movies</string>
+    <string name="tvShows">Tv Shows</string>
+    <string name="copyright">Aplikasi Movie Catalogue adalah sebuah aplikasi yang dibuat untuk melihat movies dan tv shows yang sedang ramai ditonton oleh penduduk bumi.\n\nCopyright 2021 Obet Dicoding.\nAll rights reserved.</string>
+    <string name="about">About</string>
+    <string name="text_judul">Welcome To Movie Catalogue</string>
+    <string name="name_user">Nama anda</string>
+    <string name="submit_user">Submit</string>
+    <string name="next_button">Next</string>
+    <string name="template_bagikan">Aku suka nonton movies dan tv shows, ada rekomendasi lagi?</string>
+</resources>

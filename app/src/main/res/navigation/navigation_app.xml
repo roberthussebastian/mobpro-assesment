@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_app">
+
+    <fragment
+        android:id="@+id/moviesFragment"
+        android:name="org.robertsiagian.moviecatalogue.ui.movies.MoviesFragment"
+        android:label="MoviesFragment" >
+        <action
+            android:id="@+id/action_moviesFragment_to_detailMoviesActivity"
+            app:destination="@id/detailMoviesActivity" />
+        <action
+            android:id="@+id/action_moviesFragment_to_aboutFragment"
+            app:destination="@id/aboutFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/tvShowFragment"
+        android:name="org.robertsiagian.moviecatalogue.ui.tvshow.TvShowFragment"
+        android:label="TvShowFragment" >
+        <action
+            android:id="@+id/action_tvShowFragment_to_detailTvShowActivity"
+            app:destination="@id/detailTvShowActivity" />
+        <action
+            android:id="@+id/action_tvShowFragment_to_aboutFragment"
+            app:destination="@id/aboutFragment" />
+    </fragment>
+    <activity
+        android:id="@+id/detailMoviesActivity"
+        android:name="org.robertsiagian.moviecatalogue.ui.detail.movies.DetailMoviesActivity"
+        android:label="DetailMoviesActivity" />
+    <activity
+        android:id="@+id/detailTvShowActivity"
+        android:name="org.robertsiagian.moviecatalogue.ui.detail.tvshow.DetailTvShowActivity"
+        android:label="DetailTvShowActivity" />
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="org.robertsiagian.moviecatalogue.ui.about.AboutFragment"
+        android:label="AboutFragment" />
+</navigation>
